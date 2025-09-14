@@ -1,9 +1,7 @@
-streamlit
-pymupdf
-scikit-learn
-numpy
-google-generative-ai
-rich
-pickle
-faiss-cpu
-goole-api-core
+streamlit==1.29.0
+google-generativeai==0.3.2
+faiss-cpu==1.7.4
+numpy==1.24.3
+PyMuPDF==1.23.14
+rich==13.7.0
+pickle5==0.0.12
